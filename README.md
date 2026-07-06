@@ -28,4 +28,4 @@ Each homework folder contains the related notebooks/code, figures, and a dedicat
 
 ## License
 
-This repository is licensed under the MIT License.
+MIT License.
