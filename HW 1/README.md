@@ -220,20 +220,6 @@ Logistic Regression, with 91.3% test accuracy
 | Ensembles | AdaBoost gave the best Adult Income result |
 | Regularization | Helps control overfitting but must be tuned carefully |
 
----
-
-## Figure Files
-
-Save the images in the `figures` folder using these names:
-
-| Figure | File Name |
-|---|---|
-| Logistic loss for different learning rates and regularization values | `figures/logistic_loss_lr_regularization.png` |
-| Coefficients vs alpha | `figures/regression_coefficients_vs_alpha.png` |
-| Selected alpha vs training-data ratio | `figures/selected_alpha_vs_training_ratio.png` |
-| R² vs training-data ratio | `figures/r2_vs_training_ratio.png` |
-| Accuracy vs number of multinomial levels | `figures/multinomial_accuracy_vs_levels.png` |
-| Train/test accuracy vs number of ensemble models | `figures/ensemble_accuracy_vs_num_models.png` |
 
 ---
 
